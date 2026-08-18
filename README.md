@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/laeequeanwer005/Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/laeequeanwer005/Leetcode/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/laeequeanwer005/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2029-stone-game-ix](https://github.com/laeequeanwer005/Leetcode/tree/master/2029-stone-game-ix) |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/laeequeanwer005/Leetcode/tree/master/0088-merge-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/laeequeanwer005/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/laeequeanwer005/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
