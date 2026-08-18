@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/laeequeanwer005/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0051-n-queens](https://github.com/laeequeanwer005/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/laeequeanwer005/Leetcode/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/laeequeanwer005/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/laeequeanwer005/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [2029-stone-game-ix](https://github.com/laeequeanwer005/Leetcode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/laeequeanwer005/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/laeequeanwer005/Leetcode/tree/master/0189-rotate-array) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/laeequeanwer005/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2029-stone-game-ix](https://github.com/laeequeanwer005/Leetcode/tree/master/2029-stone-game-ix) |
 ## Greedy
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/laeequeanwer005/Leetcode/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/laeequeanwer005/Leetcode/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/laeequeanwer005/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Euclidean Algorithm
 |  |
