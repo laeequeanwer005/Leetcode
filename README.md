@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/laeequeanwer005/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/laeequeanwer005/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/laeequeanwer005/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/laeequeanwer005/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/laeequeanwer005/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/laeequeanwer005/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/laeequeanwer005/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/laeequeanwer005/Leetcode/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/laeequeanwer005/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/laeequeanwer005/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/laeequeanwer005/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
