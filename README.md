@@ -191,12 +191,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/laeequeanwer005/Leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/laeequeanwer005/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/laeequeanwer005/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/laeequeanwer005/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/laeequeanwer005/Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/laeequeanwer005/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/laeequeanwer005/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Interactive
 |  |
 | ------- |
