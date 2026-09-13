@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/laeequeanwer005/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/laeequeanwer005/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0332-reconstruct-itinerary](https://github.com/laeequeanwer005/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0835-image-overlap](https://github.com/laeequeanwer005/Leetcode/tree/master/0835-image-overlap) |
 | [0843-guess-the-word](https://github.com/laeequeanwer005/Leetcode/tree/master/0843-guess-the-word) |
 | [1386-cinema-seat-allocation](https://github.com/laeequeanwer005/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/laeequeanwer005/Leetcode/tree/master/1872-stone-game-viii) |
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/laeequeanwer005/Leetcode/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/laeequeanwer005/Leetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
