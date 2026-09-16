@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/laeequeanwer005/Leetcode/tree/master/0835-image-overlap) |
 | [0843-guess-the-word](https://github.com/laeequeanwer005/Leetcode/tree/master/0843-guess-the-word) |
 | [1386-cinema-seat-allocation](https://github.com/laeequeanwer005/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/laeequeanwer005/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1872-stone-game-viii](https://github.com/laeequeanwer005/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/laeequeanwer005/Leetcode/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/laeequeanwer005/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
