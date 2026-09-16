@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/laeequeanwer005/Leetcode/tree/master/0189-rotate-array) |
 | [0843-guess-the-word](https://github.com/laeequeanwer005/Leetcode/tree/master/0843-guess-the-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/laeequeanwer005/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/laeequeanwer005/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/laeequeanwer005/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/laeequeanwer005/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/laeequeanwer005/Leetcode/tree/master/2029-stone-game-ix) |
@@ -174,12 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/laeequeanwer005/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/laeequeanwer005/Leetcode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/laeequeanwer005/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/laeequeanwer005/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/laeequeanwer005/Leetcode/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/laeequeanwer005/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/laeequeanwer005/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/laeequeanwer005/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/laeequeanwer005/Leetcode/tree/master/1872-stone-game-viii) |
 ## Sorting
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/laeequeanwer005/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/laeequeanwer005/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
