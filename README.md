@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/laeequeanwer005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/laeequeanwer005/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/laeequeanwer005/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/laeequeanwer005/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/laeequeanwer005/Leetcode/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/laeequeanwer005/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/laeequeanwer005/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/laeequeanwer005/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/laeequeanwer005/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/laeequeanwer005/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/laeequeanwer005/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/laeequeanwer005/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/laeequeanwer005/Leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/laeequeanwer005/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
