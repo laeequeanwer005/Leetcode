@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/laeequeanwer005/Leetcode/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/laeequeanwer005/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/laeequeanwer005/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/laeequeanwer005/Leetcode/tree/master/0443-string-compression) |
 | [0843-guess-the-word](https://github.com/laeequeanwer005/Leetcode/tree/master/0843-guess-the-word) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/laeequeanwer005/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/laeequeanwer005/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/laeequeanwer005/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/laeequeanwer005/Leetcode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/laeequeanwer005/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/laeequeanwer005/Leetcode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/laeequeanwer005/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/laeequeanwer005/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Euclidean Algorithm
