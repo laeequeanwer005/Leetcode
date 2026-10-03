@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/laeequeanwer005/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/laeequeanwer005/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/laeequeanwer005/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/laeequeanwer005/Leetcode/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/laeequeanwer005/Leetcode/tree/master/0835-image-overlap) |
 | [0843-guess-the-word](https://github.com/laeequeanwer005/Leetcode/tree/master/0843-guess-the-word) |
 | [1004-max-consecutive-ones-iii](https://github.com/laeequeanwer005/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/laeequeanwer005/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/laeequeanwer005/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/laeequeanwer005/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/laeequeanwer005/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/laeequeanwer005/Leetcode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/laeequeanwer005/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/laeequeanwer005/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/laeequeanwer005/Leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
