@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/laeequeanwer005/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/laeequeanwer005/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/laeequeanwer005/Leetcode/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/laeequeanwer005/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/laeequeanwer005/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/laeequeanwer005/Leetcode/tree/master/0283-move-zeroes) |
 | [0332-reconstruct-itinerary](https://github.com/laeequeanwer005/Leetcode/tree/master/0332-reconstruct-itinerary) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/laeequeanwer005/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/laeequeanwer005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/laeequeanwer005/Leetcode/tree/master/0051-n-queens) |
+| [0216-combination-sum-iii](https://github.com/laeequeanwer005/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Sliding Window
 |  |
 | ------- |
