@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/laeequeanwer005/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/laeequeanwer005/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/laeequeanwer005/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/laeequeanwer005/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/laeequeanwer005/Leetcode/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/laeequeanwer005/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/laeequeanwer005/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -70,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/laeequeanwer005/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/laeequeanwer005/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/laeequeanwer005/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/laeequeanwer005/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/laeequeanwer005/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0208-implement-trie-prefix-tree](https://github.com/laeequeanwer005/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/laeequeanwer005/Leetcode/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/laeequeanwer005/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/laeequeanwer005/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/laeequeanwer005/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/laeequeanwer005/Leetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
