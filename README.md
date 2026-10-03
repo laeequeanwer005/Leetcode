@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/laeequeanwer005/Leetcode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/laeequeanwer005/Leetcode/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/laeequeanwer005/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/laeequeanwer005/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/laeequeanwer005/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/laeequeanwer005/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/laeequeanwer005/Leetcode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/laeequeanwer005/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/laeequeanwer005/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/laeequeanwer005/Leetcode/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/laeequeanwer005/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/laeequeanwer005/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
