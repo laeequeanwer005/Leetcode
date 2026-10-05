@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/laeequeanwer005/Leetcode/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/laeequeanwer005/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0843-guess-the-word](https://github.com/laeequeanwer005/Leetcode/tree/master/0843-guess-the-word) |
+| [0856-score-of-parentheses](https://github.com/laeequeanwer005/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/laeequeanwer005/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1268-search-suggestions-system](https://github.com/laeequeanwer005/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/laeequeanwer005/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/laeequeanwer005/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/laeequeanwer005/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/laeequeanwer005/Leetcode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/laeequeanwer005/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/laeequeanwer005/Leetcode/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/laeequeanwer005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/laeequeanwer005/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/laeequeanwer005/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/laeequeanwer005/Leetcode/tree/master/0856-score-of-parentheses) |
 ## Matrix
 |  |
 | ------- |
