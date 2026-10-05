@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/laeequeanwer005/Leetcode/tree/master/0835-image-overlap) |
 | [0843-guess-the-word](https://github.com/laeequeanwer005/Leetcode/tree/master/0843-guess-the-word) |
 | [1004-max-consecutive-ones-iii](https://github.com/laeequeanwer005/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/laeequeanwer005/Leetcode/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/laeequeanwer005/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1386-cinema-seat-allocation](https://github.com/laeequeanwer005/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/laeequeanwer005/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/laeequeanwer005/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0332-reconstruct-itinerary](https://github.com/laeequeanwer005/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/laeequeanwer005/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/laeequeanwer005/Leetcode/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/laeequeanwer005/Leetcode/tree/master/1268-search-suggestions-system) |
 ## Eulerian Circuit
 |  |
