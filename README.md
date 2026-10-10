@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/laeequeanwer005/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1872-stone-game-viii](https://github.com/laeequeanwer005/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/laeequeanwer005/Leetcode/tree/master/2029-stone-game-ix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/laeequeanwer005/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/laeequeanwer005/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/laeequeanwer005/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/laeequeanwer005/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/laeequeanwer005/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/laeequeanwer005/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/laeequeanwer005/Leetcode/tree/master/1268-search-suggestions-system) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/laeequeanwer005/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/laeequeanwer005/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/laeequeanwer005/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/laeequeanwer005/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/laeequeanwer005/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/laeequeanwer005/Leetcode/tree/master/2029-stone-game-ix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/laeequeanwer005/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/laeequeanwer005/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/laeequeanwer005/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1268-search-suggestions-system](https://github.com/laeequeanwer005/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/laeequeanwer005/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/laeequeanwer005/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/laeequeanwer005/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/laeequeanwer005/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/laeequeanwer005/Leetcode/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/laeequeanwer005/Leetcode/tree/master/1268-search-suggestions-system) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/laeequeanwer005/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Eulerian Circuit
 |  |
 | ------- |
