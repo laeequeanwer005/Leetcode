@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/laeequeanwer005/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/laeequeanwer005/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/laeequeanwer005/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/laeequeanwer005/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/laeequeanwer005/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/laeequeanwer005/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/laeequeanwer005/Leetcode/tree/master/0739-daily-temperatures) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/laeequeanwer005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/laeequeanwer005/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/laeequeanwer005/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/laeequeanwer005/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/laeequeanwer005/Leetcode/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/laeequeanwer005/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/laeequeanwer005/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/laeequeanwer005/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/laeequeanwer005/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/laeequeanwer005/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/laeequeanwer005/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1268-search-suggestions-system](https://github.com/laeequeanwer005/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/laeequeanwer005/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/laeequeanwer005/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
