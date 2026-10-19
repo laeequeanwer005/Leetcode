@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/laeequeanwer005/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/laeequeanwer005/Leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/laeequeanwer005/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/laeequeanwer005/Leetcode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/laeequeanwer005/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -465,4 +467,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/laeequeanwer005/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/laeequeanwer005/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/laeequeanwer005/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
