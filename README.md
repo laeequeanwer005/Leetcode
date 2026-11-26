@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/laeequeanwer005/Leetcode/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/laeequeanwer005/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/laeequeanwer005/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3360-stone-removal-game](https://github.com/laeequeanwer005/Leetcode/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/laeequeanwer005/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/laeequeanwer005/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/laeequeanwer005/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3360-stone-removal-game](https://github.com/laeequeanwer005/Leetcode/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/laeequeanwer005/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Breadth-First Search
 |  |
